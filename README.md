@@ -79,7 +79,7 @@ The main cause of the cross-hatching artifacts (as seen in the second photo of t
 
 At this point you can either re-level/probe the bed or continue on to the advanced modification.
 
-# Advanced - Electronics Modifiation
+# Advanced - Electronics Modification
 Follow this guide at your own risk. I take absolutely no responsibility if you damage your board and it no longer prints or works properly. I was at the point of replacing my board if this didnt work or if I blew it up in the process - either way I didn't care.
 
 I did a lot of reading and investigation of my own after reading https://reprap.org/forum/read.php?178,763881. I feel that this post actually explains the problem very well. To see if i could get better results, I decided to try it. If you want to as well, follow along.
