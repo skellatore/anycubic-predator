@@ -45,7 +45,7 @@ The main cause of the cross-hatching artifacts (as seen in the second photo of t
 * I personally removed and re-assembled every single wheel.
 <img src="https://github.com/skellatore/anycubic-predator/blob/master/Roller_Wheels_With_Damage.jpg" height="640px">
 
-13. Ensure the eccentric nut assembly is this order; Bolt - Carriage Plate - Thick Washer - Eccentric Nut - Eccentric Washer - Wheel - Nyloc Nut.
+13. Ensure the eccentric nut assembly is this order; Bolt - Carriage Plate - Thick Washer - Eccentric Nut - Eccentric Washer - Wheel - Nyloc Nut. Note: some users have reported that the "Thick Washer" is now built in to the Eccentric nut. 
 
 <img src="https://github.com/skellatore/anycubic-predator/blob/master/Axis_Carriage_Eccentric_Nut1.jpg" height="240px"><img src="https://github.com/skellatore/anycubic-predator/blob/master/Axis_Carriage_Eccentric_Washer1.jpg" height="240px"><img src="https://github.com/skellatore/anycubic-predator/blob/master/Axis_Carriage_Reassembled.jpg" height="240px">
 
