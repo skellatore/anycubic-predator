@@ -44,6 +44,7 @@ The main cause of the cross-hatching artifacts (as seen in the second photo of t
 * The wheels must not be done up super tight. They should only be done up tight enough to not have any slop or play. If they are too tight they can apply pressure to the bearings and damage them.
 * I personally removed and re-assembled every single wheel.
 <img src="https://github.com/skellatore/anycubic-predator/blob/master/Roller_Wheels_With_Damage.jpg" height="640px">
+*If you need to replace your wheels most new wheels will not come assembled.  When assembling your new wheels be sure to place a shim washer (which should be included) between the bearings inside the wheel.  With this assembly you will be able to torque the wheel assembly on the carriage without worrying about damaging the bearings.
 
 13. Ensure the eccentric nut assembly is this order; Bolt - Carriage Plate - Thick Washer - Eccentric Nut - Eccentric Washer - Wheel - Nyloc Nut. Note: some users have reported that the "Thick Washer" is now built in to the Eccentric nut. 
 
